@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "合法的トビ方ノススメ",
+  "base_artist": "Creepy Nuts",
+  "createdAt": "2025-12-11T10:44:24.499810Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "合法的トビ方ノススメ",
+      "artist": "Creepy Nuts",
+      "has_synced": true,
+      "path": "select/01_合法的トビ方ノススメ_Creepy_Nuts.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "新・合法的トビ方ノススメ",
+      "artist": "Creepy Nuts",
+      "has_synced": true,
+      "path": "select/02_新・合法的トビ方ノススメ_Creepy_Nuts.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "合法的トビ方ノススメ (SPARK!!SOUND!!SHOW!!ブチ上げ♂ Cherry boy REMIX!!!!)",
+      "artist": "Creepy Nuts",
+      "has_synced": true,
+      "path": "select/03_合法的トビ方ノススメ_(SPARK!!SOUND!!SHOW!!ブチ上げ♂_Cherry_boy_REMIX!!!!)_Creepy_Nuts.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "合法的トビ方ノススメ - Gohoteki tobikata no susume",
+      "artist": "Creepy Nuts",
+      "has_synced": true,
+      "path": "select/04_合法的トビ方ノススメ_-_Gohoteki_tobikata_no_susume_Creepy_Nuts.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "合法的トビ方ノススメ - Gouhouteki Tobikata No Susume",
+      "artist": "Creepy Nuts",
+      "has_synced": true,
+      "path": "select/05_合法的トビ方ノススメ_-_Gouhouteki_Tobikata_No_Susume_Creepy_Nuts.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "合法的トビ方ノススメ (Recommendation regarding how to get high legally)",
+      "artist": "Creepy Nuts",
+      "has_synced": true,
+      "path": "select/06_合法的トビ方ノススメ_(Recommendation_regarding_how_to_get_high_legally)_Creepy_Nuts.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "合法的トビ方ノススメ",
+      "artist": "CreepyNuts",
+      "has_synced": false,
+      "path": "select/pl_01_合法的トビ方ノススメ_CreepyNuts.txt"
+    }
+  ]
+}
